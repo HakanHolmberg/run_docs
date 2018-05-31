@@ -1,0 +1,72 @@
+
+BLOCKCHAIN-X
+A simple and secure exposure to the top ten cryptocurrencies
+
+# PROBLEM
+It’s hard to buy and store cryptocurrencies today. It’s even harder to select the winners and store the digital assets securely. We believe that this complex investment process makes investors, both retail and institutional, stay on the sideline of a great opportunity and exposure to what may become the future of finance. Currently, the most evident missing part for unleashing the future of finance is the presence of an investable vehicle.
+
+# SOLUTION
+BLOCKCHAIN-X is an investable Exchange-Traded-Product (ETP) that will be trading on traditional exchanges such as NASDAQ. The ETP tracks the value of the top-10 cryptocurrencies enabling all investors to get quick and easy exposure reinforced with a secure storage to what has all the potential to become the future of finance.
+
+THREE BENEFITS WITH BLOCKCHAIN-X
+
+# SIMPLE
+Registering at and using several cryptocurrency exchanges, storing assets, wallet updates, portfolio rebalancing, staying on top of news, forks, air-drops, calculating portfolio performance and doing tax reporting is both hard and tiresome. BLOCKCHAIN-X resolves all this complexity by being traded on NASDAQ and storing the digital assets securely. The ETP itself tracks the value of the top-10 cryptocurrencies by market capitalisation and is rebalanced monthly. 
+
+# SECURE
+Securely storing coins is imperative but difficult. Private agents acting as banks is the only option for the few, while the vast majority seeks for a better solution. Assets are at risk by just making a typo resulting in being hacked or phished. Holding the BLOCKCHAIN-X secures the safety of cryptocurrency holdings, by putting an additional security layer of the ETP between investors and the underlying digital assets.
+
+# SECURE
+Securely storing coins is imperative but difficult. Private agents acting as banks is the only option for the few, while the vast majority seeks for a better solution. Assets are at risk by just making a typo resulting in being hacked or phished. Holding the BLOCKCHAIN-X secures the safety of cryptocurrency holdings, by putting an additional security layer of the ETP between investors and the underlying digital assets.
+
+# DIVERSE
+Higher risk-adjusted returns as well as higher absolute returns thanks to diversification. Over the last 2 years, owning the BLOCKCHAIN-X would provide higher returns and Sharpe ratio while providing lower volatility than just owning Bitcoin. Holding the top-10 cryptocurrencies ETP offers the diversification benefits to investor public.
+
+# DIVERSIFICATION
+The correlation matrices show that the correlation is low between cryptocurrencies. Even in the top-10 cryptocurrencies’ group correlations are lower as compared to correlations in stocks. This means that investors will not be reaping full benefits of diversification by just buying one or two cryptocurrencies: they need to buy several more. Diversification benefits tend to be higher in cryptocurrencies than in stocks.
+
+# HEDGING
+Cryptocurrencies have negative correlation with equity markets and gold. This speaks in favour of cryptocurrencies as an asset class being a true diversifier with strong hedging potential complementary to traditional markets. One is likely to observe that in times of "flights to safety" during future financial crises the traditional safe heaven assets will get disrupted by cryptocurrencies.
+
+-- GRAPH - CORRELATION MATRIX - MONTHLY DATA --
+FROM  - 2015 - 04 TO 2018 - 04 
+-- GRAPH - CORRELATION MATRIX - MONTHLY DATA --
+
+# MARKET CAPITALIZATION
+Investment in several digital asset projects is needed to allow for market exposure. BLOCKCHAIN-X captures over 85% of the market capitalisation, strongly outperforming Bitcoin's ~39%. Buying a piece of the market (market-capturing) allows investors to follow the market, something hard to do for an individual investor alone: thus, there is a need for an ETP doing it for you: BLOCKCHAIN-X.
+
+-- GRAPH - MARKET CAPITALIZATION -- 
+Market capitalization covered by BLOCKCHAIN-X exceeds Bitcoin and Ethereum 
+Fraction of total market capitalisation
+-- GRAPH - MARKET CAPITALIZATION -- 
+
+# TRADING VOLUME 
+Trading volume is the source of exchanges’ revenues and it directly ties to real world use and investor interest, therefore structuring of the product (BLOCKCHAIN-X ETP) that captures this volume attracts both investors seeking quick, easy and secure access to cryptocurrencies and exchanges wanting to enhance their revenue model.
+
+-- GRAPH - TRADING VOLUME -- 
+Trading volume covered by BLOCKCHAIN-X exceeds Bitcoin and Ethereum 
+Fraction of total trading volume
+-- GRAPH -  TRADING VOLUME  -- 
+
+-- GRAPH - $100 INVESTED A YEAR AGO -- 
+Indexed price (start at $100)
+-- GRAPH -  $100 INVESTED A YEAR AGO  -- 
+
+Our Product captures the digital market exposure better than Bitcoin while capturing the upside in the top-performing asset Ethereum and at the same time being less volatile than any single asset in the top-10.
+
+OUR PRODUCTS
+
+# BLOCKCHAIN-X INDEX
+Tracks the top-10 cryptocurrencies by market capitalisation and is rebalanced on a monthly basis. The index provider takes great care of filtering the data and getting correct historical and current price points through algorithms, oracles and partners. All index rules, methodology, performance, history etc. are open to the public. The product can be used by traders and non-professionals to benchmark their performance against the market.
+
+# BLOCKCHAIN-X ETP
+Is an exchange-traded-product that follows BLOCKCHAIN-X INDEX, with underlying digital assets being purchased from multiple liquidity providers and partners with a proprietary trading engine with VWAP ordering to prevent slippage and minimizing all other costs. The assets are held in multi-signature, 100% cold storage, and are thoroughly audited by third parties. The company profits from maximizing the assets under management (AUM) with fees as low as 1,5-2,5%
+
+Our Product design resolves complexity in a wide range of areas for the investor including tax, on-boarding and holding cryptocurrencies. Assets in the BLOCKCHAIN-X index will initially cover 85% of the market and are rebalanced as the market conditions change. Compared to individual cryptocurrencies’ exposure, our product offers, for the last two years, higher risk-adjusted returns as well as higher absolute returns. It has lower volatility and higher Sharpe ratio compared to owning any single cryptocurrency.
+
+# COMPANY
+BLOCKCHAIN-X is a Stockholm-based digital asset manager founded in 2018. Our firm consists of a team with diverse background and experience in finance research & teaching at the Stockholm School of Economics, quantitative trading & analysis at proprietary trading firms, investment banking, software development and research, sales and high volume cryptocurrency trading and custody.
+
+# CONTACT
+Please reach out with questions or comments to Sid John Leopold at leopoldwhiteholding@gmail.com | +46 (0) 72 047 15 16. We will respond as quickly as possible.
+
