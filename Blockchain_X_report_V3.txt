@@ -2,7 +2,7 @@
 # Adding a headline 
 
 BLOCKCHAIN-X
-A simple and secure exposure to the top ten cryptocurrencies
+A simple and secure /*Addaing a  comment since I will remove exposure*/ to the top ten cryptocurrencies
 
 # PROBLEM
 It’s hard to buy and store cryptocurrencies today. It’s even harder to select the winners and store the digital assets securely. We believe that this complex investment process makes investors, both retail and institutional, stay on the sideline of a great opportunity and exposure to what may become the future of finance. Currently, the most evident missing part for unleashing the future of finance is the presence of an investable vehicle.
